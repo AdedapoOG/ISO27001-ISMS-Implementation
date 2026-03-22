@@ -1,0 +1,16 @@
+# Risk Treatment Plan
+
+## Objective
+To reduce identified information security risks to acceptable levels.
+
+## Sample Risks
+
+| Risk ID | Description | Impact | Likelihood | Treatment |
+|--------|------------|--------|-----------|----------|
+| R001 | Weak password policy | High | High | Enforce strong password policy |
+| R002 | No log monitoring | High | Medium | Implement SIEM (Splunk) |
+
+## Actions
+- Apply access control policies
+- Enable logging and monitoring
+- Conduct user awareness training
