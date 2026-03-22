@@ -1,0 +1,7 @@
+# Control Implementation Checklist
+
+- [ ] Access control policy implemented
+- [ ] User authentication enforced (MFA)
+- [ ] Logging enabled (SIEM)
+- [ ] Incident response process defined
+- [ ] Data backup procedures in place
