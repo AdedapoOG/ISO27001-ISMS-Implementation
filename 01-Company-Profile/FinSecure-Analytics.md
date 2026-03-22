@@ -24,3 +24,20 @@ The company collects, processes, and analyzes financial data from clients throug
 - Ensure integrity of analytics results
 - Maintain system availability
 - Comply with GDPR and UK data protection laws
+
+  ## Business Processes
+
+- Data collection from SME clients
+- Financial data processing and analysis
+- Report generation via web platform
+- User account management and authentication
+
+## Users
+
+- Internal Staff (Analysts, Developers, Admin)
+- External Clients (SMEs)
+
+## Locations
+
+- Headquarters: United Kingdom
+- Cloud Infrastructure: AWS/Azure (UK region)
